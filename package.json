@@ -1,0 +1,9 @@
+{
+  "name": "api-catalogo-filmes",
+  "version": "1.0.0",
+  "description": "API for a movie catalog",
+  "main": "index.js",
+  "repository": "github.com/kareenketleen/api-catalogo-filmes",
+  "author": "Kareen Castro",
+  "license": "MIT"
+}
