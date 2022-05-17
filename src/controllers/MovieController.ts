@@ -3,6 +3,7 @@ import "dotenv/config";
 import knex from "../database/connection";
 
 const upload_url = "https://api-catalogo-filmes.herokuapp.com/uploads";
+//const upload_url = "https://localhost:3333/uploads";
 
 export default {
   async index(req: Request, res: Response) {

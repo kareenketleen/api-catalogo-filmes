@@ -5,8 +5,14 @@ API Heroku : https://api-catalogo-filmes.herokuapp.com/
 ```
 
 #
-Para executar o projeto, utilizar o script start.
+
+Para executar o projeto localmente:
+
 ```
+Arquivo: /src/controllers/MovieController.ts ->
+    Modificar a linha 5 (const upload_url):
+    const upload_url = "https://localhost:3333/uploads";
+
 Na raíz: yarn start
 ```
 
