@@ -5,7 +5,7 @@ API Heroku : https://api-catalogo-filmes.herokuapp.com/
 ```
 
 #
-
+Para executar o projeto, utilizar o script start.
 ```
 Na raíz: yarn start
 ```
