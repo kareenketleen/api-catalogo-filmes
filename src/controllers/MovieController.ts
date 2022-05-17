@@ -1,5 +1,5 @@
 import { Request, Response } from "express";
-require("dotenv").config();
+import "dotenv/config";
 import knex from "../database/connection";
 
 const upload_url = process.env.UPLOAD_URL || "http://localhost:3333/uploads";
