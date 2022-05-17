@@ -4,7 +4,7 @@
   "description": "API for a movie catalog",
   "main": "index.js",
   "scripts": {
-	  "start": "ts-node-dev --ignore-watch node_modules src/server.ts",
+    "start": "npx ts-node -T --ignore-watch node_modules src/server.ts",
     "dev": "ts-node-dev --ignore-watch node_modules src/server.ts",
     "knex:migrate:make": "knex --knexfile knexfile.ts migrate:make",
     "knex:migrate": "knex --knexfile knexfile.ts migrate:latest",
