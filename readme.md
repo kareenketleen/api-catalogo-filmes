@@ -30,3 +30,5 @@ API Heroku : https://api-catalogo-filmes.herokuapp.com/
     "image": string,
 }
 ```
+
+### Pessoas Desenvolvedoras do Projeto: Kareen K. R. S. Castro
