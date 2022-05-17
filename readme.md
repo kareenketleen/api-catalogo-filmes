@@ -6,6 +6,10 @@ API Heroku : https://api-catalogo-filmes.herokuapp.com/
 
 #
 
+```
+Na raíz: yarn start
+```
+
 ### Recursos disponíveis para acesso via API:
 
 - cadastro de filme
